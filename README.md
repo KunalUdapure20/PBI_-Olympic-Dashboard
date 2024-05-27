@@ -4,6 +4,7 @@ This repository contains a dynamic Power BI dashboard showcasing comprehensive d
 ![image](https://github.com/KunalUdapure20/PBI_-Olympic-Dashboard/assets/170968948/b1c69dbf-8ebf-4e07-8e76-659eb4a3b099)
 
 Data Collection
+
 This analysis used data from Maven Analytics. It consists of CSV files including information about athletes, events, countries, and Olympic data spanning 1896 to 2016.
 The data-set features 15 columns and 133,571 rows.
 
