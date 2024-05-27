@@ -8,6 +8,7 @@ This analysis used data from Maven Analytics. It consists of CSV files including
 The data-set features 15 columns and 133,571 rows.
 
 Data Cleaning 
+
 1. Data cleansing was done in Power Query
 2. Columns not required for analysis were eliminated. 
 3. Duplicate rows were found and deleted. 
@@ -15,6 +16,7 @@ Data Cleaning
 5. Furthermore, data transformations and aggregations were used to generate relevant metrics and variables for study.
 
 Visualization & Analysis
+
 Power BI was utilized for data processing and visualization. 
 To display the data in an understandable and visually appealing way, visualizations such interactive dashboards, bar charts, line charts, tree map +and donut charts were developed.
 
@@ -28,4 +30,5 @@ The dashboard focuses on significant areas of Olympic history:
 5. Medal Distribution by Age: Analysis of medal winners by age group, with emphasis on age-related trends.
 
 Conclusion
+
 The "120 Years of Olympic Games: A Comprehensive Review" project successfully used Power BI to convert raw Olympic Games data into a visually appealing and instructive dashboard. Using data cleansing, normalization, and visualization techniques, the project provided stakeholders with a comprehensive platform for exploring and understanding historical trends, top performers, and important factors influencing the Olympic Games over the past century.
