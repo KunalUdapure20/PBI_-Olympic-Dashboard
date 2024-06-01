@@ -1,6 +1,3 @@
-USE KUNALDB;
-SELECT * FROM athletes_cleaned;
-
 -- Q1. Show how many medal counts present for entire data.
 select count(*) as All_Medals from athletes_cleaned;
 
