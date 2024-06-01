@@ -1,6 +1,5 @@
 https://github.com/KunalUdapure20/PBI_-Olympic-Dashboard/blob/main/SQL%20Code.sql
 
-
 # PBI_-Olympic-Dashboard
 This repository contains a dynamic Power BI dashboard showcasing comprehensive data analysis and visualization of Olympic Games statistics. It offers an interactive platform to explore historical data, highlighting top-performing countries, athletes, gender distribution of medals, yearly trends, and various insights across sports disciplines.
 
